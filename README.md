@@ -81,9 +81,3 @@ Deploy online using shared hosting or GitHub Pages combined with serverless back
 
 
 
-
-Sources
-
-Ask ChatGPT
-
-
